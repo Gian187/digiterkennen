@@ -95,10 +95,10 @@ python model_test.py
 
 ---
 
-## Dieses Projekt darf nicht für kommerzielle Zwecke verwendet werden
-
----
-
 ## ✅ Ergebnis
 
 Das Modell erkennt gezeichnete Buchstaben mit einer Genauigkeit, die abhängig von der Qualität und Menge deiner Trainingsdaten ist. Die GUI zeigt das Ergebnis mit prozentualer Sicherheit an.
+
+## Dieses Projekt darf nicht für kommerzielle Zwecke verwendet werden
+
+---
